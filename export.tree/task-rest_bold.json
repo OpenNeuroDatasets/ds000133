@@ -1,0 +1,22 @@
+{
+   "TaskName": "Resting State",
+   "TaskInstructions": " Subjects were asked to relax while fixating the central point in the middle of a grey-background screen that was projected on a LCD screen and viewed through a mirror placed above the subject head.",
+   "TaskDescription": "Resting state BOLD data were separated in three runs lasting four minutes each.",
+   "CogAtlasID": "trm_4c8a834779883",
+   "Manufacturer": "Philips",
+   "ManufacturerModelName": "Achieva",
+   "MagneticFieldStrength": 3.00,
+   "EPIFactor": 39, 
+   "EchoTime": 0.035, 
+   "NumberOfEchoes": 1, 
+   "NumberOfSlices": 30, 
+   "FlipAngle": 75.0,
+   "PatientPosition": "Head First Supine", 
+   "PhaseEncodingDirection": "i", 
+   "PreparationDirection": "Anterior-Posterior", 
+   "ScanMode": "MS", 
+   "ScanOptions": [
+      "FS"
+   ], 
+   "ScanningSequence": "FEEPI"
+}
