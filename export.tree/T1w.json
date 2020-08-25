@@ -1,0 +1,14 @@
+{
+   "Manufacturer": "Philips",
+   "ManufacturerModelName": "Achieva",
+   "MagneticFieldStrength": 3.00,
+   "NumberOfEchoes": 1, 
+   "NumberOfSlices": 180, 
+   "PatientPosition": "Head First Supine", 
+   "PhaseEncodingDirection": "i", 
+   "PixelBandwidth": 994.58364, 
+   "PreparationDirection": "Anterior-Posterior", 
+   "ScanDuration": 251.0, 
+   "ScanMode": "3D", 
+   "ScanningSequence": "T1TFE"
+}

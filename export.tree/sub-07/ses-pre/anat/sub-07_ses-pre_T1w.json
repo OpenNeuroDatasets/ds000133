@@ -1,0 +1,14 @@
+{
+    "EchoTime": 0.00372, 
+    "RepetitionTime": 0.008112, 
+    "EPIFactor": 1, 
+    "PreparationDirection": "Anterior-Posterior", 
+    "ScanMode": "3D", 
+    "NumberOfEchoes": 1, 
+    "NumberOfSlices": 180, 
+    "PatientPosition": "Head First Supine", 
+    "PhaseEncodingDirection": "i", 
+    "PixelBandwidth": 994.58364, 
+    "ScanningSequence": "T1TFE", 
+    "ScanDuration": 251.0
+}
